@@ -1,0 +1,53 @@
+:root{
+    --bodyColor:black;
+    --mainColor:rgb(93, 87, 180);
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: var(--bodyColor);
+}
+main{
+    background-color: var(--mainColor);
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    height: 300px;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+#AdviceID{
+    font-size: 50px;
+    color: forestgreen !important;
+}
+
+#AdviceID, #AdviceText{
+    text-align: center;
+    border: none;
+    height: 100px;
+    background-color: var(--mainColor);
+    color: aliceblue;
+    font-weight: 700;
+}
+
+.pause{
+    margin-bottom: 80px;
+}
+
+.cookie{
+    margin-left: 200px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blueviolet;
+    border-radius: 100%;
+    width: 50px;
+    height: 100px;
+
+}
