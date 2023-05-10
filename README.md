@@ -1,14 +1,42 @@
-# Frontend Mentor - Advice generator app
+# Frontend Mentor - Single price grid component
 
-![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [Frontend Mentor - Expenses chart component](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt).
 
-## Welcome! 👋
+## Table of contents
 
-Thanks for checking out this front-end coding challenge.
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+### The challenge
+
+The Challenge is to build out this advice generator app using the [Advice Slip API](https://api.adviceslip.com)
+
+
+### Screenshot
+
+![Alt text](/images/screenshot2.jpg?raw=true)
+![Alt text](/images/screenshot1.jpg?raw=true)
+
+### Links
+
+- Solution URL: https://github.com/Edea191/balancefrontendmasters
+- Live Site URL: https://edea191.github.io/balancefrontendmasters/
+
+## Built with
+
+- Semantic HTML5
+- CSS3, Flexbox
+- JavaScript
+
+
+## Author
+
+- Frontend Mentor - [@Edea191](https://www.frontendmentor.io/profile/Edea191)
+- GitHub - [@Edea191](https://github.com/Edea191)
 
 ## The challenge
 
