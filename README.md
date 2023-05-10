@@ -19,12 +19,12 @@ The Challenge is to build out this advice generator app using the [Advice Slip A
 ### Screenshot
 
 ![Alt text](/images/screenshot2.jpg?raw=true)
-![Alt text](/images/screenshot1.jpg?raw=true)
+
 
 ### Links
 
-- Solution URL: https://github.com/Edea191/balancefrontendmasters
-- Live Site URL: https://edea191.github.io/balancefrontendmasters/
+- Solution URL: https://github.com/Edea191/Advice-generator-API
+- Live Site URL: https://edea191.github.io/Advice-generator-API/
 
 ## Built with
 
