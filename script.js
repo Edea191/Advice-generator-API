@@ -14,8 +14,8 @@ then(res =>{
 }).
 then(res =>
      {
-        document.getElementById('AdviceID').value="Advice #"+res.slip.id;
-        document.getElementById('AdviceText').value=res.slip.advice;
+        document.getElementById('AdviceID').value="ADVICE #"+res.slip.id;
+        document.getElementById('AdviceText').value="\"" + res.slip.advice + "\"";
     })
 .catch(error => {console.error(error)});
 
